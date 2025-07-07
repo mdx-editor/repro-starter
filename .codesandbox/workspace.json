@@ -1,0 +1,29 @@
+{
+  "preview": [
+    {
+      "views": [
+        {
+          "id": "codesandbox.browser",
+          "options": {
+            "port": 5173
+          },
+          "closeable": false
+        }
+      ]
+    },
+    {
+      "open": true,
+      "views": [
+        {
+          "id": "codesandbox.terminal"
+        },
+        {
+          "id": "codesandbox.console"
+        },
+        {
+          "id": "codesandbox.problems"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "markdown-repro",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "engines": {
+    "node": "20"
+  },
+  "dependencies": {
+    "@mdxeditor/editor": "^3.39.1",
+    "loader-utils": "3.2.1",
+    "lucide-react": "^0.525.0",
+    "markdown-to-jsx": "7.2.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "18.0.9",
+    "@vitejs/plugin-react": "^4.6.0",
+    "typescript": "4.4.2",
+    "vite": "^6.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  }
+}
